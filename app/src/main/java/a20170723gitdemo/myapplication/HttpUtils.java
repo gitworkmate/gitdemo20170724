@@ -7,5 +7,6 @@ package a20170723gitdemo.myapplication;
 public class HttpUtils {
 
     private String dev ;
+    private String master ;
 
 }
