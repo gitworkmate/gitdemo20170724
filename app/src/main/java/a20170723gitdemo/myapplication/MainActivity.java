@@ -31,5 +31,6 @@ public class MainActivity extends AppCompatActivity {
          Log.e("TAG","MainActivity11233");
 		 
 		 Log.e("TAG","MainActivitydev");
+		  Log.e("TAG","MainActivitydev2");
     }
 }
