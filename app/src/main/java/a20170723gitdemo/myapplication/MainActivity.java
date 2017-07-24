@@ -25,14 +25,10 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG","MainActivity112");   Log.e("TAG","MainActivity112");
          Log.e("TAG","MainActivity11233");
 
-
         Log.e("TAG","---===========--------------");
 
          Log.e("TAG","MainActivity11233");
-		 
 
-		 
-		 
 		  Log.e("TAG","abc");
 
 		 Log.e("TAG","MainActivitydev");
@@ -40,13 +36,11 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG","MainActivitydev333");
 		  Log.e("TAG","MainActivitydev2");
 
-
         Log.e("TAG","MainActivitydevgit");
 
 		 Log.e("TAG","MainActivitydevdec");
 
         Log.e("TAG","MainActivitydevgit");
-
 
 
         Log.e("TAG","MainActivitydevgit44444444444");
@@ -57,8 +51,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG","MainActivitydevgit777777");
 
         Log.e("TAG","MainActivitydevgit5555");
-		
-		
+
         Log.e("TAG","MainActivitydevgitdev");
 
     }
