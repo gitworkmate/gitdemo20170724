@@ -37,5 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.e("TAG","MainActivitydevgit");
+
+        Log.e("TAG","MainActivitydevgit");
     }
 }
