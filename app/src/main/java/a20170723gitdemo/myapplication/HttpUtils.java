@@ -8,5 +8,8 @@ public class HttpUtils {
 
     private String dev ;
     private String master ;
+	
+	  private String dev2 ;
+    private String master2 ;
 
 }
