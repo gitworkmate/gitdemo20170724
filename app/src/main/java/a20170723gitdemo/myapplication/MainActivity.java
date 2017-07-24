@@ -25,21 +25,16 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG","MainActivity112");   Log.e("TAG","MainActivity112");
          Log.e("TAG","MainActivity11233");
 
-
         Log.e("TAG","---===========--------------");
 
          Log.e("TAG","MainActivity11233");
-		 
 
-		 
-		 
 		  Log.e("TAG","abc");
 
 		 Log.e("TAG","MainActivitydev");
 
         Log.e("TAG","MainActivitydev333");
 		  Log.e("TAG","MainActivitydev2");
-
 
         Log.e("TAG","MainActivitydevgit");
 
@@ -59,11 +54,5 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("TAG","MainActivitydevgitdev");
 
-
-		  Log.e("TAG","MainActivitydevgit---dev");
-        Log.e("TAG","MainActivitydevgit---dev23");
-
-
-        Log.e("TAG","MainActivitydevgit---dev24");
     }
 }
